@@ -38,18 +38,6 @@ const uint32_t HALF_DELAY_MS = 5;
 const uint32_t FULL_DELAY_MS = 5;
 ```
 
-## Repo Structure
-```
-STM32F4_Keil/
-  EEE416-Exp02_Stepper/
-    main.c
-    DSMCprojecttemplate1.uvprojx
-    DSMCprojecttemplate1.uvoptx
-    RTE/
-    DebugConfig/
-    Listings/
-    Objects/
-README.md
-```
+
 
 > The Keil project was derived from the provided lab template and adapted to complete Experiment 02.
