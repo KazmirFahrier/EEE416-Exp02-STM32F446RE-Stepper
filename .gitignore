@@ -1,0 +1,21 @@
+# Keil / MDK build artifacts
+*.axf
+*.o
+*.d
+*.dep
+*.lnp
+*.map
+*.htm
+*.uvgui.*
+*.uvguix.*
+
+# Build output (general)
+*.elf
+*.hex
+*.bin
+*.list
+
+# Build folders
+Listings/
+Objects/
+DebugConfig/
